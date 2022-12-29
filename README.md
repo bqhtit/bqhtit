@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @bqhtit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-bqhtit/bqhtit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-👹:Kho ipa của tui nè.
+-🍓:Tôi là bqhtit.
+-🍑:Email của tui nè, bqhtit@gmail.com.
+-🍒:Zalo của tuo nè 0966127929.
